@@ -1,0 +1,19 @@
+* {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color:blanchedalmond;
+}
+
+
+.links{
+    font-weight: bold;
+}
+
+.recipe-body {
+    font-size: 10pt;
+    font-weight:lighter;
+}
+
+.images{
+    width: auto;
+    height: 300px;
+}
