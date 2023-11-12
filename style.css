@@ -6,6 +6,18 @@
 
 .links{
     font-weight: bold;
+    padding: 25px;
+    margin: auto;
+    display: inline-block;
+    color: rgba(234, 0, 255, 0.616);
+}
+
+li{
+    padding: 10px;
+}
+
+ul{
+    font-style:italic;
 }
 
 .recipe-body {
@@ -16,4 +28,9 @@
 .images{
     width: auto;
     height: 300px;
+}
+
+.title{
+    padding: 25px;
+    text-align: center;
 }
